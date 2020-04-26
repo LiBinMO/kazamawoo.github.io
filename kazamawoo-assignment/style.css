@@ -1,0 +1,31 @@
+.social a{
+  font-size: 4.5rem;
+  padding:3rem;
+}
+footer{
+  background-color:#30323a;
+  color:#d5d5d5;
+  padding-top: 2rem;
+}
+.light{
+  border-top: 1px solid #d5d5d5;
+}
+
+.fa-facebook{
+  color: #4e5374;
+}
+.fa-twitter{
+  color: #4e5374;
+}
+.fa-google-plus-g{
+  color: #4e5374;
+}
+.fa-instagram{
+  color: #4e5374;
+}
+.fa-youtube{
+  color: #4e5374;
+}
+.fa-facebook:hover,.fa-twitter:hover,.fa-google-plus-g:hover,.fa-instagram:hover,.fa-youtube:hover{
+color: #e7e7e7
+}
